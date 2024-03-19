@@ -1,4 +1,7 @@
-# Itch PayByBank Integration Theoretical Enhancement 
+# Itch PayByBank Integration Theoretical Enhancement
+
+> **Status:** Proof of concept / theoretical enhancement. This project explores using AWS Rekognition facial verification to enable cross-browser one-click PayByBank transactions. Built as a technical exploration, not production code.
+
 Facial Verification for one-click transactions across different browsers and devices
 
 ## Overview
